@@ -1,5 +1,19 @@
 .App{
   display: flex;
   justify-content: space-around;
+  height: 100vw;
+  align-items: center;
   
+}
+
+.box{
+  width: 40vw;
+  height: 50vh;
+  
+  background-color: blueviolet;
+  color: aliceblue;
+}
+
+.controls{
+  width: 40vw;
 }
