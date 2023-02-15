@@ -6,6 +6,11 @@
 
 }
 
+p{
+  font-weight: bold;
+  font-family: sans-serif ;
+  font-style: normal;
+}
 .box{
   width: 40vw;
   height: 50vh;
