@@ -3,13 +3,14 @@
   justify-content: space-around;
   height: 100vw;
   align-items: center;
-  
+
 }
 
 .box{
   width: 40vw;
   height: 50vh;
-  
+  text-align: center;
+  padding: 20vh 0px 0px;
   background-color: blueviolet;
   color: aliceblue;
 }
